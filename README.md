@@ -1,6 +1,6 @@
 # Malnutrition-dans-le-monde    
-J'ai réalisé une étude sur le thème de *la sous-nutrition dans le monde*.   
-A partir des données obtenues sur le site de *la FAO* (Food and Agriculture Oranization of the United Nations), j'ai dressé un panorama de l'état de la malnutrition dans le monde.   
+J'ai réalisé une étude sur le thème de _la_ _sous-nutrition_ _dans_ _le_ _monde_.   
+A partir des données obtenues sur le site de _la_ _FAO_ (Food and Agriculture Oranization of the United Nations), j'ai dressé un panorama de l'état de la malnutrition dans le monde.   
 J'ai identifié :   
 * la proportion de personnes en état de sous-nutrition     
 * le nombre théorique de personnes qui pourraient être nourries   
